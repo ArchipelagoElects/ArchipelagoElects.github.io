@@ -3,6 +3,6 @@ permalink: /islands/
 title: "Islands"
 ---
 
-## Our currently covered islands
+## Our currently (intermittently) covered islands
 - Shetland
 - Åland
