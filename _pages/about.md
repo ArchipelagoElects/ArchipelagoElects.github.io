@@ -3,4 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Started by two island enthusiasts with wide knowledge about politics around Europe, electoral systems, and political contexts. and a few islands.
+Project has been started by two island enthusiasts with wide knowledge about politics around Europe, its electoral systems and political contexts. And a few islands.
