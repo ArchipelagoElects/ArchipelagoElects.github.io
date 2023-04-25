@@ -73,7 +73,7 @@ footer:
       url: "https://twitter.com/ShetlandElects"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Island-Elects"
+      url: "https://github.com/ArchipelagoElects"
 
 defaults:
   # _posts
