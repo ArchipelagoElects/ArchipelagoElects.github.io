@@ -11,4 +11,4 @@ title: "Åland"
 
 <br>
 
-<div><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/TYtTI/embed.js?v=2" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/TYtTI/full.png" alt="Polling average of Åland (Finland)" /></noscript></div>
+<div><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/TYtTI/embed.js?v=5" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/TYtTI/full.png" alt="Polling average of Åland (Finland)" /></noscript></div>
